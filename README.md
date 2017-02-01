@@ -23,6 +23,6 @@ We want to see what you can make in three hours.  When the clock hits 12:30pm su
 **It's that easy!!!!**
 
 
-### P.S. You cannot scaffold your routes/controllers/etc. ###
+### P.S. You cannot scaffold this app. ###
 
 Good luck!!!
